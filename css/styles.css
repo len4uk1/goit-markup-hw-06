@@ -405,6 +405,7 @@
     .list-clains:focus .svg-clains {
     fill: var(--fill-color);
     }
+    
     .list-clains:hover,
     .list-clains:focus {
     fill: var(--fill-color);
